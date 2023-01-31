@@ -12,11 +12,11 @@ Database: MySQL
 * United International University
 
 ## Snapshots
-<img src="1.png" alt="" style="width:1080px;"/>
-<img src="2.png" alt="" style="width:1080px;"/>
-<img src="3.png" alt="" style="width:1080px;"/>
-<img src="4.png" alt="" style="width:1080px;"/>
-<img src="5.png" alt="" style="width:1080px;"/>
+<img src="Screenshots/1.png" alt="" style="width:1080px;"/>
+<img src="Screenshots/2.png" alt="" style="width:1080px;"/>
+<img src="Screenshots/3.png" alt="" style="width:1080px;"/>
+<img src="Screenshots/4.png" alt="" style="width:1080px;"/>
+<img src="Screenshots/5.png" alt="" style="width:1080px;"/>
 
 ## Compatibility 
 All devices including: `PC` `Laptop` `Smartphone` `Tablet`
